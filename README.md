@@ -1,4 +1,3 @@
-# SankeGame
 
 # Snake Game (Java)
 
